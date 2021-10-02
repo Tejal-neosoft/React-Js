@@ -1,0 +1,10 @@
+{
+    "products":[
+        {
+            "id":1,"pnmae":"Redmi 9A ","price":2345,"quantity":1,"images":"https://images.pexels.com/photos/6612384/pexels-photo-6612384.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6612384.jpg&fm=jpg"
+        },
+        {
+            "id":2,"pnmae":"Sony TV","price":2450,"quantity":1,"images":"https://images.pexels.com/photos/6612384/pexels-photo-6612384.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6612384.jpg&fm=jpg"
+        }
+    ]
+}
